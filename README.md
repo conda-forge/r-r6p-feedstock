@@ -1,11 +1,11 @@
-About r-r6p
-===========
+About r-r6p-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r6p-feedstock/blob/main/LICENSE.txt)
 
 Home: https://tidylab.github.io/R6P/, https://github.com/tidylab/R6P
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r6p-feedstock/blob/main/LICENSE.txt)
 
 Summary: Build robust and maintainable software with object-oriented design patterns in R. Design patterns abstract and present in neat, well-defined components and interfaces the experience of many software designers and architects over many years of solving similar problems. These are solutions that have withstood the test of time with respect to re-usability, flexibility, and maintainability. 'R6P' provides abstract base classes with examples for a few known design patterns. The patterns were selected by their applicability to analytic projects in R. Using these patterns in R projects have proven effective in dealing with the complexity that data-driven applications possess.
 
