@@ -1,4 +1,4 @@
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/R6P_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/R6P/R6P_{{ version }}.tar.gz
-  sha256: 55ab7ae2b25d129895cad359d892bda2910100948c5e8aa33be27ecf7f321ea3
+  sha256: 2ed20c0679b4c92a2a9a72705700298fa8fdb9af0118ec9f56de2db1c7c0ee8b
 
 build:
-  number: 3
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
